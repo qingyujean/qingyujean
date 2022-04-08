@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 HomePage
-- :orange_book: [wx公众号]()
+- :orange_book: [微信公众号](https://github.com/qingyujean/qingyujean/blob/main/qrcode_for_gh_eef99d02b4c5_344.jpg)
 - :hammer: [CSDN](https://blog.csdn.net/u010366748)
 
 Focusing on
