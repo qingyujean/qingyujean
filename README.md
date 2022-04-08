@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-HomePage
-- :orange_book: [微信公众号](https://github.com/qingyujean/qingyujean/blob/main/qrcode_for_gh_eef99d02b4c5_344.jpg)
-- :hammer: [CSDN](https://blog.csdn.net/u010366748)
-
-Focusing on
-- :ram: NLP
-- :meat_on_bone: 机器学习&深度学习
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=qingyujean&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qingyujean&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
 
+
+> HomePage
+> - :orange_book: [微信公众号](https://github.com/qingyujean/qingyujean/blob/main/qrcode_for_gh_eef99d02b4c5_344.jpg)
+> - :hammer: [CSDN](https://blog.csdn.net/u010366748)
+
+> Focusing on
+> - :ram: NLP
+> - :meat_on_bone: 机器学习&深度学习
 
 
 <!--
